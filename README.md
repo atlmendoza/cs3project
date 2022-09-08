@@ -1,8 +1,8 @@
-# ![PSHS Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK9CI11zTMPF5nRDfaFcRtfFmAE0Kvy5u2wCiI00U&s)Project Proposal Sample
+# ![PSHS Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK9CI11zTMPF5nRDfaFcRtfFmAE0Kvy5u2wCiI00U&s =50x50)Project Proposal Sample
 ## My Whole World
 
 This is a project proposal for CS3 and it will discuss in an infographics format which I consider my whole world and it composed of several group of people which I hold **dear to my heart**.  Each webpage will showcase each of these group of people.
-
+ 
 The webpage will comprised of the following:
 
 1. Homepage - The homepage is the landing page of the website and will give an overview of the website and a links to the other contents of the website
