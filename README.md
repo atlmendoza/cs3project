@@ -1,4 +1,4 @@
-# ![PSHS Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK9CI11zTMPF5nRDfaFcRtfFmAE0Kvy5u2wCiI00U&s){:height="36px" width="36px"}.
+# ![PSHS Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK9CI11zTMPF5nRDfaFcRtfFmAE0Kvy5u2wCiI00U&s)
 Project Proposal Sample
 ## My Whole World
 
